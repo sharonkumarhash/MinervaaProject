@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="11320" started-at="2019-04-23T09:43:10Z" finished-at="2019-04-23T09:43:21Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="11320" started-at="2019-04-23T09:43:10Z" finished-at="2019-04-23T09:43:21Z">
+      <class name="com.minervaa_automation.testcases.TC_12_Sign_In_Email_Field_Validation">
+        <test-method status="PASS" signature="loadObjectsPropertiesFromExcel()[pri:0, instance:com.minervaa_automation.testcases.TC_12_Sign_In_Email_Field_Validation@243c4f91]" name="loadObjectsPropertiesFromExcel" is-config="true" duration-ms="208" started-at="2019-04-23T09:43:09Z" finished-at="2019-04-23T09:43:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadObjectsPropertiesFromExcel -->
+        <test-method status="PASS" signature="setBrowser()[pri:0, instance:com.minervaa_automation.testcases.TC_12_Sign_In_Email_Field_Validation@243c4f91]" name="setBrowser" is-config="true" duration-ms="11284" started-at="2019-04-23T09:43:10Z" finished-at="2019-04-23T09:43:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method status="PASS" signature="validate_TC_12_Sign_In_Email_Field_Validation()[pri:0, instance:com.minervaa_automation.testcases.TC_12_Sign_In_Email_Field_Validation@243c4f91]" name="validate_TC_12_Sign_In_Email_Field_Validation" duration-ms="12" started-at="2019-04-23T09:43:21Z" finished-at="2019-04-23T09:43:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_TC_12_Sign_In_Email_Field_Validation -->
+        <test-method status="PASS" signature="activitiesAfterExecutingTC(org.testng.ITestResult)[pri:0, instance:com.minervaa_automation.testcases.TC_12_Sign_In_Email_Field_Validation@243c4f91]" name="activitiesAfterExecutingTC" is-config="true" duration-ms="2" started-at="2019-04-23T09:43:21Z" finished-at="2019-04-23T09:43:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validate_TC_12_Sign_In_Email_Field_Validation status=SUCCESS method=TC_12_Sign_In_Email_Field_Validation.validate_TC_12_Sign_In_Email_Field_Validation()[pri:0, instance:com.minervaa_automation.testcases.TC_12_Sign_In_Email_Field_Validation@243c4f91] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- activitiesAfterExecutingTC -->
+        <test-method status="PASS" signature="terminateSettings()[pri:0, instance:com.minervaa_automation.testcases.TC_12_Sign_In_Email_Field_Validation@243c4f91]" name="terminateSettings" is-config="true" duration-ms="2" started-at="2019-04-23T09:43:21Z" finished-at="2019-04-23T09:43:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateSettings -->
+      </class> <!-- com.minervaa_automation.testcases.TC_12_Sign_In_Email_Field_Validation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

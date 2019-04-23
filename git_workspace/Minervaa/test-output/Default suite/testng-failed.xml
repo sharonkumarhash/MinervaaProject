@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.minervaa_automation.testcases.TC_12_Sign_In_Email_Field_Validation">
+        <methods>
+          <include name="activitiesAfterExecutingTC"/>
+          <include name="terminateSettings"/>
+          <include name="validate_TC_12_Sign_In_Email_Field_Validation"/>
+          <include name="setBrowser"/>
+          <include name="loadObjectsPropertiesFromExcel"/>
+        </methods>
+      </class> <!-- com.minervaa_automation.testcases.TC_12_Sign_In_Email_Field_Validation -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
